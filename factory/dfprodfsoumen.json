@@ -1,0 +1,15 @@
+{
+	"name": "dfprodfsoumen",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5949834a-1792-4cae-8c14-5e744a423a1a",
+		"tenantId": "3b672af8-84de-4834-bd9c-7679b4478642"
+	}
+}
